@@ -1,0 +1,116 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+.one{
+	background-color: #D0CCCD;
+	
+	
+}
+.two{
+	text-align:center;
+	color:#FF794A;
+	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Merriweather', serif;
+	font-weight:bold;
+	text-shadow:5px 2px 2px #101819;
+width:100%;
+
+	
+}
+.three{
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	
+}
+.four{
+	
+	width:30%;
+	float:left;
+	overflow:hodeen;
+	
+}	
+.five{
+	
+	width: 40%;
+	float:left&right;
+	
+	
+}
+.six{
+    
+	float:top;
+	
+	
+	
+}
+.seven{
+	background-color:#F1C659;
+	padding:0 0 0 30px;
+	font-family: 'Pacifico', cursive;
+	overflow:hidden;
+	
+}
+.eight{
+	height:120px;
+	width:100px;
+	border: 3px solid white;
+	border-radius:30%;
+	
+	float:left;
+	
+
+}
+.nine{
+	padding:0px 0 0 300px;
+	color:#E85A78;
+	border:0;
+	margin-top:0;
+	margin-bottom:0;
+	
+	
+}
+.nine h1 {
+	margin-top:0;
+	margin-bottom:0;
+
+	
+}
+.nine h3{
+	margin-top:0;
+	margin-bottom:0;
+	
+	
+}
+.ten{
+	float:right;
+	width:90px;
+	padding-right:80px;
+	margin-right:60px;
+	color:#8B8D8F;
+	font-weight:bold;
+	background-color:#98CA9F;
+	text-shadow:2px 1px 1px #101819;
+	text-decoration:fixed;
+}
+.ten:hover{
+	color:tomato;
+	cursor:pointer;
+	background-color:pink;
+	text-shadow:5px 2px 2px #101819;
+}
+.eleven p {
+	background-color:#C9ABA4;
+	margin:0;
+	
+}
+.m{
+	clear:both;
+}
+.v{
+	width:100%;
+}
